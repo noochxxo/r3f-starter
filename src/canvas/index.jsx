@@ -10,6 +10,7 @@ const SceneCanvas = () => {
       gl={{
         preserveDrawingBuffer: true
       }}
+      className='w-full max-w-full h-full'
     >
 
     </Canvas>
